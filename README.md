@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my github"
-date: YYYY-MM-DD
+date: 2025-05-08
 tags: Web-Developer
 ---
 - 👋 Hi, I’m Ahmed Ezzat
