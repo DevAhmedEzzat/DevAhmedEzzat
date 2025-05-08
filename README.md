@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
 - 👋 Hi, I’m Ahmed Ezzat
 - 👀 I’m interested in web developer
 - 🌱 I’m currently working typescript, jasmine, javascript, css, html, node.js, express, postgresSQL,
